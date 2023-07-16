@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Krisna Dwi Setyaadi 👋👯</h1>
+<h1>Hi there, I'm Krisna Dwi Setyaadi 👋</h1>
 <br/>
 <div align="justify">
     <a href="https://www.instagram.com/krisnasetyadii/">
@@ -17,70 +17,63 @@
 <br/>
 
 **My Tools and Technologies :**
-<style>
-    .iconContainer {
-        border: 1px solid #ccc;
-        padding: 5px;
-        text-align: center;
-    }
-</style>
 
-<div>
-    <div style="display: flex;">
-        <div class="iconContainer">
+<table>
+    <tr>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icon" width="65" height="65" />
             <p>HTML</p>
-        </div>
-        <div class="iconContainer">
+        </td>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=css&theme=light" alt="icon" width="65" height="65" />
             <p>CSS</p>
-        </div>
-        <div class="iconContainer">
+        </td>
+        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
             <p>Javascript</p>
-        </div>
-        <div class="iconContainer">
+        </td>
+        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
             <p>React JS</p>
-        </div>
-        <div class="iconContainer">
+        </td>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="icon" width="65" height="65" />
             <p>Next JS</p>
-        </div>
-        <div class="iconContainer">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-            <p>REST API</p>
-        </div>
-        <div class="iconContainer">
+        </td>
+        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
             <p>Redux</p>
-        </div>   
-    </div>
-<br/>
-    <div style="display: flex;">
-        <div class="iconContainer">
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+            <p>REST API</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="icon" width="65" height="65" />
             <p>Node JS</p>
-        </div>
-        <div class="iconContainer">
+        </td>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=git&theme=light" alt="icon" width="65" height="65" />
             <p>Git</p>
-        </div>
-        <div class="iconContainer">
+        </td>
+        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
             <p>Eslint</p>
-        </div>
-        <div class="iconContainer">
+        </td>
+        <td  align="center" width="96">
             <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
             <p>Prettier</p>
-        </div>
-        <div class="iconContainer">
+        </td>
+        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
             <p>Graph QL</p>
-        </div>
-        <div class="iconContainer">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
             <p>Github</p>
-        </div>
-    </div>
-</div>
+        </td>
+    </tr>
+</table>
+
