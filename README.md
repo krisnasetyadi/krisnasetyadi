@@ -9,7 +9,8 @@
     </a>
 </div>
 <br/>
-<p>Welcome to my Github Page. I'm <b>Krisna Dwi Setyaadi</b>, a Software Developer at Moonlay Technologies and a final year student at Harapan Bangsa Institute of Technology.</p>
+<p>Welcome to my Github Page. I'm <b>Krisna Dwi Setyaadi</b>, a Software Developer at <u>Moonlay Technologies<u> and a final year student at Harapan Bangsa Institute of Technology (Major: Information System of Data Science).</p>
+
 <br/>
 <p>As a dedicated professional, I am passionate about software development and constantly strive to expand my knowledge and skills in the field. I have experience working on various projects and enjoy tackling challenges to create efficient and innovative solutions.</p>
 <br/>
