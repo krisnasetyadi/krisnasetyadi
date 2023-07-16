@@ -18,7 +18,7 @@
 
 **My Tools and Technologies :**
 <div>
-    <div style="display: flex; align-items: flex-start;">
+    <div style="display: flex;">
         <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
             <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icon" width="65" height="65" />
             <p>HTML</p>
@@ -49,7 +49,7 @@
         </div>   
     </div>
 <br/>
-    <div style="display: flex; align-items: flex-start;">
+    <div style="display: flex;">
         <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
             <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="icon" width="65" height="65" />
             <p>Node JS</p>
