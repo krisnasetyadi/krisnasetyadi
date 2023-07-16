@@ -48,12 +48,12 @@
             <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
             <p>REST API</p>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="icon" width="65" height="65" />
             <p>Node JS</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=git&theme=light" alt="icon" width="65" height="65" />
             <p>Git</p>
