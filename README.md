@@ -17,60 +17,68 @@
 <br/>
 
 **My Tools and Technologies :**
+<style>
+    .iconContainer {
+        border: 1px solid #ccc;
+        padding: 5px;
+        text-align: center;
+    }
+</style>
+
 <div>
     <div style="display: flex;">
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://skillicons.dev/icons?i=html&theme=light" alt="icon" width="65" height="65" />
             <p>HTML</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://skillicons.dev/icons?i=css&theme=light" alt="icon" width="65" height="65" />
             <p>CSS</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
             <p>Javascript</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
             <p>React JS</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="icon" width="65" height="65" />
             <p>Next JS</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
             <p>REST API</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
             <p>Redux</p>
         </div>   
     </div>
 <br/>
     <div style="display: flex;">
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="icon" width="65" height="65" />
             <p>Node JS</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://skillicons.dev/icons?i=git&theme=light" alt="icon" width="65" height="65" />
             <p>Git</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
             <p>Eslint</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
             <p>Prettier</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
             <p>Graph QL</p>
         </div>
-        <div style="border: 1px solid #ccc; padding-right: 5px; padding-left: 5px; padding-top:2px; padding-bottom: 2px; text-align: center;">
+        <div class="iconContainer">
             <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
             <p>Github</p>
         </div>
