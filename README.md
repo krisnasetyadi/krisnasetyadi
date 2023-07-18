@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Krisna Dwi Setyaadi 👋</h1>
+<h1>Hi there, I'm Krisna👋</h1>
 <br/>
 <div align="justify">
     <a href="https://www.instagram.com/krisnasetyadii/">
