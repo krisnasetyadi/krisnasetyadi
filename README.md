@@ -1,16 +1,16 @@
 <h1>Hi there, I'm Krisna👋</h1>
 <br/>
 <div align="justify">
-    <a href="https://www.instagram.com/krisnasetyadii/">
+    <a href="https://www.instagram.com/krisnasetyadii/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/krisnadwisetyaadi/">
+    <a href="https://www.linkedin.com/in/krisnadwisetyaadi/" target="_blank">
         <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" />
     </a>
 </div>
 <br />
 <div>
-    <a href="https://krisnadwisetyaadi.vercel.app/" target="blank">
+    <a href="https://krisnadwisetyaadi.vercel.app/" target="_blank">
         My Personal Profile ( On Development )
     </a>
 </div>
