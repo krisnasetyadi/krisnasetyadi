@@ -10,7 +10,7 @@
 </div>
 <br />
 <div>
-    <a href="https://krisnadwisetyaadi.vercel.app/">
+    <a href="https://krisnadwisetyaadi.vercel.app/" target="blank">
         My Personal Profile ( On Development )
     </a>
 </div>
