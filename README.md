@@ -8,6 +8,11 @@
         <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" />
     </a>
 </div>
+<div>
+    <a href="https://krisnadwisetyaadi.vercel.app/">
+        My Personal Profile ( On Development )
+    </a>
+</div>
 <br/>
 <p>Welcome to my Github Page. I'm <b>Krisna Dwi Setyaadi</b>, a Software Developer at <a href="https://moonlay.com">Moonlay Technologies</a> and a final year student at <a href="https://www.ithb.ac.id">Harapan Bangsa Institute of Technology</a> (Major: Data Science Information Systems).</p>
 
