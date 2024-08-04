@@ -11,7 +11,7 @@
 <br />
 <div>
     <a href="https://krisnadwisetyaadi.vercel.app/" target="_blank">
-        My Personal Profile ( On Development )
+        My Personal Profile 
     </a>
 </div>
 <br/>
