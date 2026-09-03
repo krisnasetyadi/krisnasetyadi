@@ -1,27 +1,8 @@
-<h1>Hi there, I'm Krisna👋</h1>
-<br/>
-<div align="justify">
-    <a href="https://www.instagram.com/krisnasetyadii/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/krisnadwisetyaadi/" target="_blank">
-        <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" />
-    </a>
-</div>
-<br />
-<div>
-    <a href="https://krisnadwisetyaadi.vercel.app/" target="_blank">
-        https://krisnadwisetyaadi.com
-    </a>
-</div>
-<br/>
-<p>Welcome to my Github Page. I'm <b>Krisna Dwi Setyaadi</b>, a Software Developer at <a href="https://moonlay.com">Moonlay Technologies</a> and a final year student at <a href="https://www.ithb.ac.id">Harapan Bangsa Institute of Technology</a> (Major: Data Science Information Systems).</p>
+Welcome to my GitHub Page. I'm **Krisna Dwi Setyaadi**, a Software Developer at [Moonlay Technologies](https://moonlay.com/).
 
-<br/>
-<p>As a dedicated professional, I am passionate about software development and constantly strive to expand my knowledge and skills in the field. I have experience working on various projects and enjoy tackling challenges to create efficient and innovative solutions.</p>
-<br/>
-<p>On my Github, you'll find a collection of my projects and contributions. Feel free to explore and reach out if you have any questions or collaboration opportunities.</p>
-<br/>
+I’m passionate about software development and continuously expanding my knowledge and skills in building efficient and scalable applications. I primarily work with modern web technologies and enjoy exploring new tools, solving technical challenges, and turning ideas into practical solutions.
+
+On my GitHub, you'll find a collection of my projects, experiments, and contributions. Feel free to explore and reach out if you have any questions or collaboration opportunities.
 
 **My Tools and Technologies :**
 
