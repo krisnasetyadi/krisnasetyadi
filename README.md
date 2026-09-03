@@ -1,10 +1,12 @@
-Welcome to my GitHub Page. I'm **Krisna Dwi Setyaadi**, a Software Developer at [Moonlay Technologies](https://moonlay.com/).
+# Hi, I’m Krisna 👋
 
-I’m passionate about software development and continuously expanding my knowledge and skills in building efficient and scalable applications. I primarily work with modern web technologies and enjoy exploring new tools, solving technical challenges, and turning ideas into practical solutions.
+I’m a Software Developer at **Moonlay Technologies**, specializing in frontend development with **React, Next.js, and TypeScript**.
 
-On my GitHub, you'll find a collection of my projects, experiments, and contributions. Feel free to explore and reach out if you have any questions or collaboration opportunities.
+I enjoy building modern web applications, solving technical challenges, and turning ideas into practical, user-focused solutions.
 
-**My Tools and Technologies :**
+🌐 **Portfolio:** [https://krisnadwisetyaadi.com]
+
+## Tools I Work With
 
 <table>
     <tr>
