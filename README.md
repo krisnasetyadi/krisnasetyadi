@@ -4,7 +4,7 @@ I’m a Software Developer at **Moonlay Technologies**, specializing in frontend
 
 I enjoy building modern web applications, solving technical challenges, and turning ideas into practical, user-focused solutions.
 
-🌐 **Portfolio:** [https://krisnadwisetyaadi.com]
+🌐 **Portfolio:** https://krisnadwisetyaadi.com
 
 ## Tools I Work With
 
